@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>1.jpg</string>
+		<key>directions</key>
+		<string>Shake vigorously and serve.</string>
+		<key>ingredients</key>
+		<string>white creme de menthe, peach liqueur vodka,  hot chocolate</string>
+		<key>name</key>
+		<string>After Dinner Mint</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>2.jpg</string>
+		<key>directions</key>
+		<string>Pour the liqueur into a glass, add the cider, and serve cold.</string>
+		<key>ingredients</key>
+		<string>cinnamon schnapps,	hard cider</string>
+		<key>name</key>
+		<string>Baked Apple</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>3.jpg</string>
+		<key>directions</key>
+		<string>Combine ingredients in a coffee mug. Top with whipped cream and coconut shavings.</string>
+		<key>ingredients</key>
+		<string>hazelnut liqueur,coconut rum, irish cream, coffee</string>
+		<key>name</key>
+		<string>Cafe Joy</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>4.jpg</string>
+		<key>directions</key>
+		<string>Shake rum, amaretto, and orange juice in a shaker filled with ice. Strain into a highball glass over ice. Add grenadine and garnish with a pineapple wedge and a strawberry</string>
+		<key>ingredients</key>
+		<string>coconut rum, amaretto almond liqueur, orange juice,  grenadine syrup</string>
+		<key>name</key>
+		<string>Day at the Beach</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>5.jpg</string>
+		<key>directions</key>
+		<string>Pour ingredients into a Rocks Glass filled with ice.</string>
+		<key>ingredients</key>
+		<string>Wild Turkey, tabasco Sauce</string>
+		<key>name</key>
+		<string>Firecracker</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>6.jpg</string>
+		<key>directions</key>
+		<string>Layer in sequence in a shot glass.</string>
+		<key>ingredients</key>
+		<string>irish cream, butterscotch schnapps, cinnamon schnapps</string>
+		<key>name</key>
+		<string>Gingerbread Man</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>7.jpg</string>
+		<key>directions</key>
+		<string>Mix vodka and sweet and sour mix proportionally in any size batch, then add sprite or 7-up and cranberry accordingly, a dash each per serving. </string>
+		<key>ingredients</key>
+		<string>vodka, sweet and sour mix, sprite, cranberry juice</string>
+		<key>name</key>
+		<string>Key West Lemonade</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>8.jpg</string>
+		<key>directions</key>
+		<string>Add sugar to the rim of an old-fashioned glass, and drop a cube or packet of sugar into the bottom of the glass. Pour vodka and lemon juice into a stainless steel shaker over ice, and shake until completely cold. Pour into the prepared old-fashioned glass, and serve.</string>
+		<key>ingredients</key>
+		<string>Citron vodka, Lemon, Sugar</string>
+		<key>name</key>
+		<string>Lemon Drop</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>9.jpg</string>
+		<key>directions</key>
+		<string>Add bourbon wiskey and sweet vermouth. Mix and serve in martini glass.</string>
+		<key>ingredients</key>
+		<string>sweet vermouth, bourbon whiskey, bitters, maraschino cherry	twist, orange peel</string>
+		<key>name</key>
+		<string>Manhattan</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>10.jpg</string>
+		<key>directions</key>
+		<string>Combine all ingredients in a mixing glass, chill and strain into a cocktail glass. Garnish with a twist of lemon, and serve.</string>
+		<key>ingredients</key>
+		<string>strawberry liqueur, orange liqueur, raspberry liqueur, lime juice</string>
+		<key>name</key>
+		<string>Neapolitan</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>11.jpg</string>
+		<key>directions</key>
+		<string>Shake all ingredients with ice, strain into a cocktail glass, and serve.</string>
+		<key>ingredients</key>
+		<string>gin, lemon juice, orange Juice</string>
+		<key>name</key>
+		<string>Polo Cocktail</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>12.jpg</string>
+		<key>directions</key>
+		<string>Heat and pour into an irish coffee cup. Top with whipped cream, garnish with a tall cinnamon stick, and serve.
+</string>
+		<key>ingredients</key>
+		<string>orange liqueur,	cinnamon schnapps,	vodka, cranberry juice</string>
+		<key>name</key>
+		<string>Red Rudolph</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>13.jpg</string>
+		<key>directions</key>
+		<string>Fill shaker with ice, add ingredients, chill, strain.
+</string>
+		<key>ingredients</key>
+		<string>vodka, irish creme, kahlua, frangelico, milk</string>
+		<key>name</key>
+		<string>Sandbar Sleeper</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>14.jpg</string>
+		<key>directions</key>
+		<string>151 first, then peppermint liqueur.</string>
+		<key>ingredients</key>
+		<string>151 proof rum,	peppermint liqueur</string>
+		<key>name</key>
+		<string>Terminator</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>15.jpg</string>
+		<key>directions</key>
+		<string>Shake together over ice, and strain into a highball glass. Garnish with a lime wedge and a cherry.</string>
+		<key>ingredients</key>
+		<string>lemon vodka, pepper vodka, kurant vodka, vodka, orange juice</string>
+		<key>name</key>
+		<string>Vodka Mixer</string>
+	</dict>
+</array>
+</plist>
